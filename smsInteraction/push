@@ -1,0 +1,9 @@
+#!/bin/sh
+
+git push koached-bot master
+git push heroku master
+heroku rake db:migrate
+heroku restart
+
+#Show existing DB backups
+heroku pgbackups

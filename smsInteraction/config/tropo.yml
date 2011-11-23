@@ -1,0 +1,10 @@
+tokens:
+  production: f8d442ae1980f4459e40a1846d0fd0d7f8fc3245a969455aff0d9a79c846e8e22b6922e19c6207afc087d312
+  development: 5d40d69a970759469a52f74c49f0e15a7c199bc035d17fdc943f07be52bd8c52614b6fba6cba5d83ea9bdec3
+  debug: 43f63e523a002c459213fc5d6a8cd334dfa70a42c9e070ace9959a74e731fc6abba145e662f399cc4731a701
+
+outbound_numbers:
+  development: 7134876992
+  production: 6154426459
+  
+tropo_session_url: http://api.tropo.com/1.0/sessions

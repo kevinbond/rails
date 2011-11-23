@@ -1,0 +1,29 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  from: MyString
+  to: MyString
+  text: MyString
+
+two:
+  from: MyString
+  to: MyString
+  text: MyString
+
+
+
+# == Schema Information
+#
+# Table name: tropo_messages
+#
+#  id               :integer         not null, primary key
+#  channel          :string(255)
+#  network          :string(255)
+#  from             :string(255)
+#  to               :string(255)
+#  message          :string(255)
+#  created_at       :datetime
+#  updated_at       :datetime
+#  tropo_session_id :string(255)
+#
+

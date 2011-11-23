@@ -1,0 +1,24 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  session_id: MyString
+  network: MyString
+  username: MyString
+
+two:
+  session_id: MyString
+  network: MyString
+  username: MyString
+
+# == Schema Information
+#
+# Table name: tropo_sessions
+#
+#  id         :integer         not null, primary key
+#  session_id :string(255)
+#  network    :string(255)
+#  username   :string(255)
+#  created_at :datetime
+#  updated_at :datetime
+#
+

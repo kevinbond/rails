@@ -1,0 +1,23 @@
+#Koached-content
+'17134876992':
+  token: gwY_RPlzeUEOjHF1LPlc
+  url: http://localhost:3001/koached_bot_answers
+'16154426459':
+  token: gwY_RPlzeUEOjHF1LPlc
+  url: http://prospecting.koached.com/koached_bot_answers
+
+#Konditioning
+'17134896585':
+  token: 6trjtVv_jvjuWXCgIxSm
+  url: http://localhost:3002/koached_bot_answers
+'17134896587':
+  token: 6trjtVv_jvjuWXCgIxSm
+  url: http://konditioning.heroku.com/koached_bot_answers
+
+#Koached-marketing
+'17134890206':
+  token: 1quLX8uBSLLHahW6NjBs
+  url: http://localhost:3003/koached_bot_answers
+'17134895682':
+  token: 1quLX8uBSLLHahW6NjBs
+  url: http://koached.com/koached_bot_answers
